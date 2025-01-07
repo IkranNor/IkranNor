@@ -5,7 +5,7 @@ My expertise lies in using data storytelling and visualization tools to solve co
 ---
 - 🎓 **Educational Background**: Bachelor of Economics 
 - 🎓 **Certificates**: Google Data Analytics Professional Certificate & Microsoft Power BI Data Analyst Professional Certificate  
--                      
+                     
 - 📊 **Expertise**:  
   - **Tools**: Power BI, Excel, SQL, R  
   - **Skills**: Data Analysis, Visualization, Reporting, Data Modeling, and Querying  
