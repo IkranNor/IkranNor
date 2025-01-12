@@ -14,7 +14,7 @@ My expertise lies in using data storytelling and visualization tools to solve co
 
 - 🌱 Prepared Certificates **Google Data Analytics Professional Certificate** AND **Power BI Data Analyst Professional Certificate**
 - 👯 I’m Currently Learnin **Python Tool**
-- 📄 Know about my experiences [SQL, EXCEL, POWER BI](SQL, EXCEL, POWER BI)
+- 📄 Know about my experiences [SQL, EXCEL, POWER BI]
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
