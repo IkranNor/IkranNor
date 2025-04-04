@@ -3,7 +3,7 @@ I am a detail-oriented and results-driven Data Analyst with a passion for transl
 
 As a lifelong learner, I am constantly expanding my technical skills, refining my analytical approach, and keeping up with the latest trends in Data Analytics, AI-driven Analytics, and Business Intelligence.
 
-🔹  Core Expertise:
+                  🔹  Core Expertise:
 
 ✔ Data Collection, Cleaning, and Preparation 
 
@@ -17,18 +17,18 @@ As a lifelong learner, I am constantly expanding my technical skills, refining m
 
 ✔ Predictive & Prescriptive Analytics 
 
-💡 What Drives Me?
+                💡 What Drives Me?
 
 I am passionate about data-driven problem-solving—whether it's uncovering hidden trends, optimizing business processes, or providing insights that enhance operational efficiency. I thrive in fast-paced environments where data plays a crucial role in strategic decision-making.
 I believe that data should tell a story, and I strive to present my findings in an intuitive and impactful way, ensuring stakeholders can make informed decisions with clarity and confidence.
 
-⚡ Beyond Work:
+                ⚡ Beyond Work:
 
 🎯 I enjoy solving real-world business problems using data-driven approaches
 
 🚀 I am always exploring new datasets and collaborating with other data professionals to gain fresh perspectives
 
-📂 Explore My Work:
+                📂 Explore My Work:
 
 I am continuously working on projects that showcase my skills in data analytics, business intelligence, and storytelling.
 
@@ -36,7 +36,7 @@ I am continuously working on projects that showcase my skills in data analytics,
 
 Let’s connect, collaborate, and exchange insights on data analytics, business intelligence, and AI-driven decision-making! 🚀
 
-✨ Open to New Opportunities
+               ✨ Open to New Opportunities
 
 I am always looking for opportunities to apply my skills in data analytics, business intelligence, and data-driven decision-making. If you're interested in collaborating or discussing potential projects, feel free to connect with me!
 
